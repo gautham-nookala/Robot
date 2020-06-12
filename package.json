@@ -1,0 +1,15 @@
+{
+  "name": "robot",
+  "version": "1.0.0",
+  "description": "JavaScript example starter project",
+  "main": "./src/robot.js",
+  "scripts": {},
+  "dependencies": {
+    "jest": "26.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": ["javascript", "starter"]
+}

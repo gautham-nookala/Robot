@@ -1,0 +1,2 @@
+1. Handle edge cases and error handling
+2. Implement UI to accept user input to play with the Robot
